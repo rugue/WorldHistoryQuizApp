@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">World History Quiz</string>
+    <string name="begin_quiz">Begin Quiz</string>
+    <string name="compass_image">Compass Image</string>
+    <string name="compass_logo">Compass_logo</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="welcome">Welcome</string>
+    <string name="name"> </string>
+    <string name="correct_score">0</string>
+    <string name="incorrect_score">0</string>
+    <string name="correct_incorrect_text">Correct Incorrect</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="emptyForMessage"> \n </string>
+
+    <!--QUESTION 1 - RADIO GROUP-->
+    <string name="question1">1. John F. Kennedy was assassinated in _________</string>
+    <string name="answer1_1">New York</string>
+    <string name="answer1_2">Austin</string>
+    <string name="answer1_3">Dallas</string>
+    <string name="answer1_4">Miami</string>
+
+    <!--QUESTION 2 - CHECK BOXES-->
+    <string name="question2">2. Which of these is NOT an ancient Egyptian god?</string>
+    <string name="answer2_1">Osiris</string>
+    <string name="answer2_2">Ogun</string>
+    <string name="answer2_3">Ra</string>
+    <string name="answer2_4">Anansi</string>
+
+    <!--QUESTION 3 - RADIO GROUP-->
+    <string name="question3">3. Whose picture is displayed below?</string>
+    <string name="answer3_1">John F. Kennedy</string>
+    <string name="answer3_2">Adolf Hitler</string>
+    <string name="answer3_3">Andrew Jackson</string>
+    <string name="answer3_4">Martin Luther</string>
+    <string name="hitler_image">Adolf Hitler\n's Image</string>
+
+    <!--QUESTION 4 - EDIT TEXT-->
+    <string name="question4">4. In which country are the famous Pyramids of Giza located?</string>
+    <string name="name_of_country">Type name of country here</string>
+    <string name="empty">" "</string>
+
+    <!--QUESTION 5 - RADIO GROUP-->
+    <string name="question5">5. The rise of the kingdom of Ghana was aided by its vast supply of:</string>
+    <string name="answer5_1">Salt</string>
+    <string name="answer5_2">Slaves</string>
+    <string name="answer5_3">Iron</string>
+    <string name="answer5_4">Gold</string>
+</resources>
